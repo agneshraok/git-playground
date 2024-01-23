@@ -4,3 +4,4 @@ fixed the bug
 
 undoing merge
 
+Added stuff to master on remote 
